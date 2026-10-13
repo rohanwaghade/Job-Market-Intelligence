@@ -63,13 +63,13 @@ Use the following filenames:
 
 Once the images have been added, use the following Markdown to display them:
 
-![Market Overview](dashboard/screenshots/market_overview.png)
+![Market Overview](dashboard/Dashboard Screenshots/market-overview)
 
-![Skill Intelligence](dashboard/screenshots/skill_intelligence.png)
+![Skill Intelligence](dashboard/Dashboard Screenshots/skill-intelligence)
 
-![Fresher Opportunities](dashboard/screenshots/fresher_opportunities.png)
+![Fresher Opportunities](dashboard/Dashboard Screenshots/fresher-opportunities)
 
-![Job Explorer](dashboard/screenshots/job_explorer.png)
+![Job Explorer](dashboard/Dashboard Screenshots/job-explorer)
 
 ---
 
