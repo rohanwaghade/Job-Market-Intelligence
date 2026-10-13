@@ -49,29 +49,17 @@ The report is organized into four analytical pages.
 
 ### Dashboard Screenshots
 
-Add screenshots of your completed Power BI report to `dashboard/screenshots/`.
+#### 1. Market Overview
+![Market Overview](dashboard/Dashboard%20Screenshots/market-overview.png)
 
-Use the following filenames:
+#### 2. Skill Intelligence
+![Skill Intelligence](dashboard/Dashboard%20Screenshots/skill-intelligence.png)
 
-| Market Overview | Skill Intelligence |
-|---|---|
-| `market_overview.png` | `skill_intelligence.png` |
+#### 3. Fresher Opportunities
+![Fresher Opportunities](dashboard/Dashboard%20Screenshots/fresher-opportunities.png)
 
-| Fresher Opportunities | Job Explorer |
-|---|---|
-| `fresher_opportunities.png` | `job_explorer.png` |
-
-Once the images have been added, use the following Markdown to display them:
-
-![Market Overview](dashboard/Dashboard Screenshots/market-overview.png)
-
-![Skill Intelligence](dashboard/Dashboard Screenshots/skill-intelligence.png)
-
-![Fresher Opportunities](dashboard/Dashboard Screenshots/fresher-opportunities.png)
-
-![Job Explorer](dashboard/Dashboard Screenshots/job-explorer.png)
-
----
+#### 4. Job Explorer
+![Job Explorer](dashboard/Dashboard%20Screenshots/job-explorer.png)
 
 ## Technology Stack
 
