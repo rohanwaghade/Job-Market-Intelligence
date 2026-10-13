@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Notebooks/editors and OS
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Generated data and databases
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/database/*
+!data/database/.gitkeep
+!data/sample/**
+*.db
+*.sqlite
+*.sqlite3
+*.log

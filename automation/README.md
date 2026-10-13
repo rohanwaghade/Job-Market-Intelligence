@@ -1,0 +1,1 @@
+Scheduling can be added with Windows Task Scheduler or GitHub Actions after verifying paths, API rate limits, and secret storage. Never commit `.env`.\n

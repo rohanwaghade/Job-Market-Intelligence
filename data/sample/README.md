@@ -1,0 +1,1 @@
+Place only small, sanitized sample data here. Do not commit secrets or large raw API snapshots.\n
